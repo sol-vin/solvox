@@ -1,6 +1,6 @@
 # solvox
 
-TODO: Write a description here
+![Screenshot](rsrc/gen%20music%20idea%20v2.png)
 
 ## Installation
 
