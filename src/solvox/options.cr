@@ -1,0 +1,3 @@
+class SolVox::Options
+  
+end
